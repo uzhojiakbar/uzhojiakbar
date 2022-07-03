@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
+body{
+	color: red;
+	background: #232524;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: 5px;
+}
+.container{
+    display: flex;
+	flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.clock{
+    margin-top: 300px;
+    width: 1000px;
+    height: 250px;
+	color: red;
+	border: 2px solid grey;
+	font-size: 200px;
+	text-align: center;;
+	padding: 10px;
+    border-radius: 10px;
+}

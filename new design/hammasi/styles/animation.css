@@ -1,0 +1,84 @@
+
+/* Header anmations*/
+
+@keyframes time {
+    0% {
+        color: transparent;
+    }
+
+    50% {
+        color: black;
+    }
+
+    100% {
+        color: transparent;
+    }
+}
+
+.btn_start:hover {
+    background-color: #0080ff91;
+    transition: .5s;
+}
+
+@keyframes gobottom {
+    0% {
+        opacity: 0;
+        margin-top: 20px;
+    }
+
+    50% {
+        opacity: .5;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+/*  */
+
+.main-btn:hover,
+.btns .main-btn:hover {
+    transition: ease-in 0.3s;
+    border-color: #007FFF;
+    background-color: transparent;
+}
+
+.main-btn:hover .a-btn {
+    color: #007FFF;
+}
+/* Header anmations*/
+
+@keyframes time{
+    0%{
+        color: transparent;
+    }
+
+    50%{
+        color:  black;
+    }
+
+    100%{
+        color: transparent;
+    }
+}
+
+.btn_start:hover {
+    background-color: #0080ff91;
+    transition: .5s;
+}
+
+@keyframes gobottom {
+    0% {
+        opacity: 0;
+        margin-top: 20px;
+    }
+
+    50% {
+        opacity: .5;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}

@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-family: 'Gilroy';
+}
+
+body {
+    height: 200vh;
+}
+
+
+
+section {
+    width: 1340px;
+    margin: 0 auto;
+    padding: 0 120px;
+}
+
+.main {
+    margin: 0 80px;
+}
+
+.about-page {
+    line-height: 20px;
+}
+
+.about-page2 {
+    margin-top: 200px;
+}
+
+.left-page {
+    flex: 1;
+    height: 100vh;
+    display: grid;
+    justify-content: space-between;
+}
+
+.right-page {
+    flex: 1;
+    display: flex;
+    justify-content: end;
+}

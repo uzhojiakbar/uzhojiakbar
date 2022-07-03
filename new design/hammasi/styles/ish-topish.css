@@ -1,0 +1,61 @@
+.pages {
+    display: flex;
+    margin-top: 50px;
+}
+
+
+
+.group {}
+
+.info-work {
+    padding: 25px;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    margin-right: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.info-hover {}
+
+.title-group {
+    font-weight: 600;
+    font-size: 20.6391px;
+    color: #007FFF;
+    margin-bottom: 40px;
+}
+
+.title-group i {
+    font-size: 40px;
+    margin-right: 5px;
+}
+
+.about-work {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #646464;
+}
+
+.img-border {
+    border: 2px solid transparent;
+    border-radius: 20px;
+    position: relative;
+    left: 100px;
+    bottom: 30px;
+}
+
+.img-border img {
+    background-color: white;
+    width: 400px;
+}
+
+.main-left{
+    min-height: 32vh;
+    display: flex;
+    justify-content: space-between;
+}
