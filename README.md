@@ -1,4 +1,5 @@
 ![logo](https://github.com/uzhojiakbar/uzhojiakbar/blob/master/banner.png)
+<<<<<<< HEAD
 <h1 align="center">Hi 👋, I'm Murodillayev Hojiakbar</h1>
 <h3 align="center">A frontend developer from Uzbekistan</h3>
 
@@ -20,3 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uzhojiakbar&show_icons=true&locale=en" alt="uzhojiakbar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzhojiakbar&" alt="uzhojiakbar" /></p>
+=======
+
+<h1 style="text-align:center;"> Murodillayev Hojiakbar </h1>
+>>>>>>> add5c4d5e595e52ef68b5ac65c132fca061fb68a
