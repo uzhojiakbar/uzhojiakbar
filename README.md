@@ -1,3 +1,4 @@
+![logo](https://github.com/uzhojiakbar/uzhojiakbar/blob/master/banner.png)
 <h1 align="center">Hi 👋, I'm Murodillayev Hojikabar</h1>
 <h3 align="center">A frontend developer from Uzbekistan</h3>
 
