@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Raect Js**
 
-- 💬 Ask me about **html,css**
+- 💬 Ask me about **html,css,js,react.js**
 
 - 📫 How to reach me **uzhojiakbar3@gmail.com**
 
