@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Murodillayev Hojiakbar</h1>
 <h3 align="center">A frontend developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **Raect Js**
+- 🌱 I’m currently learning **TypeScript and Next.Js**
 
 - 💬 Ask me about **html,css,js,react.js**
 
