@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **html,css,scss,js,react.js,next.js**
+- 💬 Ask me about **html,css,scss,js,react.js,next.js,node.js,express.js,MangoDB,MySQL,Firebase,JWT,Bcrypt**
 
 - 📫 How to reach me **uzhojiakbar3@gmail.com**
 
